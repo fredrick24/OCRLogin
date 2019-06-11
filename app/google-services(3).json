@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162768991402",
+    "firebase_url": "https://ocrlogin-456cb.firebaseio.com",
+    "project_id": "ocrlogin-456cb",
+    "storage_bucket": "ocrlogin-456cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162768991402:android:504f67de3169f74b",
+        "android_client_info": {
+          "package_name": "com.example.ocrlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162768991402-8j0eer2s41tcdel445e3pcsdqq8l40hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWNb8Jg6g9hFSq8LkZcMOb9E8prA91PEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162768991402-8j0eer2s41tcdel445e3pcsdqq8l40hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

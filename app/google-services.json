@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1075888449213",
+    "firebase_url": "https://ocrlogin-ec97b.firebaseio.com",
+    "project_id": "ocrlogin-ec97b",
+    "storage_bucket": "ocrlogin-ec97b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075888449213:android:504f67de3169f74b",
+        "android_client_info": {
+          "package_name": "com.example.ocrlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075888449213-va7daca8ha8gq514truah3fneukt8fkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ocrlogin",
+            "certificate_hash": "29ff99512a067f33a872d4b166415fa26b866382"
+          }
+        },
+        {
+          "client_id": "1075888449213-5vh31lvsdbiqp9sn9di1v3l94gvh77ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKDMdtMp0mp4TlF85iIYekI3q3wMsvp1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075888449213-5vh31lvsdbiqp9sn9di1v3l94gvh77ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
